@@ -19,7 +19,9 @@ BitTorrent clients are endpoints that implement the BitTorrent protocol, namely 
 
 ##### Features
 [x] Downloading pieces
+
 [ ] Uploading pieces
+
 [ ] Tests
 
 
